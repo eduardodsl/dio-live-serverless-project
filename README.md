@@ -1,6 +1,6 @@
 # Dio Live Serverless Project
 
-This is a project for the DIO Bootcamp challenge on itegrating the following AWS services:
+This is a project for the DIO Bootcamp challenge on integrating the following AWS services:
 
 * DynamoDB;
 * CloudFront;
